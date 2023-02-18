@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Sterling Websites',
+  SiteName: 'Sterling Website',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
@@ -18,36 +18,16 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: '主页',
-      url: 'https://home.zihao.ml/'
+      text: 'video',
+      url: 'https://sterling.cf/'
     },
     {
-      text: '博客',
-      url: 'https://blog.lzhnb.cf/'
+      text: 'blog',
+      url: 'https://blog.zihao.ml'
     },
     {
-      text: '音乐',
+      text: 'music',
       url: 'https://music.zihao.ml/'
     },
-    {
-      text: '影视1',
-      url: 'https://sterling.cf/'
-    }
-    {
-      text: '影视2',
-      url: 'https://lzhin.totalh.net/'
-    }
-    {
-      text: '影视3',
-      url: 'https://jx.lzhtv.cf/'
-    }
-    {
-      text: '解析',
-      url: 'https://zihao.ml/'
-    }
-    {
-      text: '盒子',
-      url: 'https://box.zihao.ml/'
-    }
   ],
 };
